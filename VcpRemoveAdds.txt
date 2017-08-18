@@ -1,0 +1,6 @@
+<!-- Written by Manoochehr Mojgani -->
+<!-- https://github.com/mmojgani77/BlogfaAdsRemover -->
+
+<script type="text/javascript">
+	document.getElementsByTagName("iframe")[0].remove()
+</script>
